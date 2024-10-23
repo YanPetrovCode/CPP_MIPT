@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\vec.dir/objects.a
+D:\msys2\ucrt64\bin\ar.exe qc CMakeFiles\vec.dir/objects.a @CMakeFiles\vec.dir\objects1.rsp
+D:\msys2\ucrt64\bin\g++.exe -pedantic -Wall -Wextra -g -Wl,--whole-archive CMakeFiles\vec.dir/objects.a -Wl,--no-whole-archive -o vec.exe -Wl,--out-implib,libvec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vec.dir\linkLibs.rsp

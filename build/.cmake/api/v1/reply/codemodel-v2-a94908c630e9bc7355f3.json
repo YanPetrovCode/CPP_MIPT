@@ -1,0 +1,126 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "06",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-06-Debug-3e3660579f4814712ddc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "06",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "08",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-08-Debug-5f22e20ca8a71ea424b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "08",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mdfmker"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "calculator",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "vec",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "calculator::@4341562f5bb7848ac4d7",
+					"jsonFile" : "target-calculator-Debug-3136956cb4ac8fa75c78.json",
+					"name" : "calculator",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "vec::@918ba82f07e977eb6e8c",
+					"jsonFile" : "target-vec-Debug-a31e8898578a565a5022.json",
+					"name" : "vec",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Cpp_files/Calc_test/project/build",
+		"source" : "D:/Cpp_files/Calc_test/project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

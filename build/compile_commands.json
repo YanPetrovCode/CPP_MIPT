@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Cpp_files/Calc_test/project/build/06",
+  "command": "D:\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/calculator.dir/includes_CXX.rsp -pedantic -Wall -Wextra -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\calculator.cpp.obj -c D:\\Cpp_files\\Calc_test\\project\\06\\calculator.cpp",
+  "file": "D:/Cpp_files/Calc_test/project/06/calculator.cpp",
+  "output": "06/CMakeFiles/calculator.dir/calculator.cpp.obj"
+},
+{
+  "directory": "D:/Cpp_files/Calc_test/project/build/06",
+  "command": "D:\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/calculator.dir/includes_CXX.rsp -pedantic -Wall -Wextra -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\token.cpp.obj -c D:\\Cpp_files\\Calc_test\\project\\06\\token.cpp",
+  "file": "D:/Cpp_files/Calc_test/project/06/token.cpp",
+  "output": "06/CMakeFiles/calculator.dir/token.cpp.obj"
+},
+{
+  "directory": "D:/Cpp_files/Calc_test/project/build/06",
+  "command": "D:\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/calculator.dir/includes_CXX.rsp -pedantic -Wall -Wextra -g -std=gnu++17 -o CMakeFiles\\calculator.dir\\variable.cpp.obj -c D:\\Cpp_files\\Calc_test\\project\\06\\variable.cpp",
+  "file": "D:/Cpp_files/Calc_test/project/06/variable.cpp",
+  "output": "06/CMakeFiles/calculator.dir/variable.cpp.obj"
+},
+{
+  "directory": "D:/Cpp_files/Calc_test/project/build/08",
+  "command": "D:\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/vec.dir/includes_CXX.rsp -pedantic -Wall -Wextra -g -std=gnu++17 -o CMakeFiles\\vec.dir\\main.cpp.obj -c D:\\Cpp_files\\Calc_test\\project\\08\\main.cpp",
+  "file": "D:/Cpp_files/Calc_test/project/08/main.cpp",
+  "output": "08/CMakeFiles/vec.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Cpp_files/Calc_test/project/build/08",
+  "command": "D:\\msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/vec.dir/includes_CXX.rsp -pedantic -Wall -Wextra -g -std=gnu++17 -o CMakeFiles\\vec.dir\\__\\lib\\vec\\vec2d.cpp.obj -c D:\\Cpp_files\\Calc_test\\project\\lib\\vec\\vec2d.cpp",
+  "file": "D:/Cpp_files/Calc_test/project/lib/vec/vec2d.cpp",
+  "output": "08/CMakeFiles/vec.dir/__/lib/vec/vec2d.cpp.obj"
+}
+]
